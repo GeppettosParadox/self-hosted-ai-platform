@@ -90,7 +90,3 @@ A few things stood out while working through the project:
 This is an active project rather than a finished product. The core platform is running, local inference is GPU-accelerated, browser/search workflows are integrated, and the main security-hardening baseline has been tested against a set of private-network and metadata targets.
 
 I’m continuing to use the platform as a way to learn more about agent architecture, local inference, service isolation, model/tool boundaries, and practical AI infrastructure.
-
-## Public-repo note
-
-This repository is a sanitized engineering case study. It intentionally leaves out private IPs, internal DNS names, credentials, secrets, and deployment-specific configuration from the live environment.
